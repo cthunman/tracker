@@ -1,3 +1,28 @@
+20230508
+- 20 swings 1.5pd
+- 20 swings 1.5pd
+- 20 swings 1.5pd
+- 5 single_arm_snatch_right 1.5pd
+- 5 single_arm_snatch_left 1.5pd
+- 10 single_arm_snatch_right 1.5pd
+- 10 single_arm_snatch_left 1.5pd
+- 20 swings 2pd
+- 20 swings 2pd
+- 5 single_arm_snatch_right 2pd
+- 5 single_arm_snatch_left 2pd
+- 10 single_arm_snatch_right 2pd
+- 10 single_arm_snatch_left 2pd
+- 10 single_arm_snatch_right 2pd
+- 10 single_arm_snatch_left 2pd
+- 10 single_arm_windmill_right 1.5pd
+- 10 single_arm_windmill_left 1.5pd
+- 10 single_arm_windmill_right 1.5pd
+- 10 single_arm_windmill_left 1.5pd
+- 10 single_arm_windmill_right 2pd
+- 10 single_arm_windmill_left 2pd
+- 10 single_arm_windmill_right 2pd
+- 10 single_arm_windmill_left 2pd
+
 20230503
 - 20 swings 1.5pd
 - 20 swings 1.5pd
