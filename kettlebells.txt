@@ -1,3 +1,16 @@
+20230719
+- 20 swings 1.5pd
+- 20 swings 1.5pd
+- 20 swings 1.5pd
+- 5 single_arm_snatch_right 1.5pd
+- 5 single_arm_snatch_left 1.5pd
+- 10 single_arm_snatch_right 1.5pd
+- 10 single_arm_snatch_left 1.5pd
+- 10 single_arm_snatch_right 1.5pd
+- 10 single_arm_snatch_left 1.5pd
+- 10 upright_shoulder_press_right 1pd
+- 10 upright_shoulder_press_left 1pd
+
 20230718
 - 20 swings 1.5pd
 - 20 swings 1.5pd
