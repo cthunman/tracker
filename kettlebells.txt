@@ -17,6 +17,7 @@
 - 1 single_arm_snatch_left 2.5pd
 - 5 single_arm_snatch_right 2.5pd
 - 2 single_arm_snatch_left 2.5pd
+- 20 pushups
 
 20230801
 - 10 rdl 1.5pd
