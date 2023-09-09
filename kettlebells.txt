@@ -1,3 +1,11 @@
+20230909
+- 5 turkish_getup_right 1pd
+- 5 turkish_getup_left 1pd
+- 5 turkish_getup_right 1pd
+- 5 turkish_getup_left 1pd
+- 10 turkish_getup_right 1pd
+- 10 turkish_getup_left 1pd
+
 20230907
 - 20 swings 1.5pd
 - 20 swings 1.5pd
