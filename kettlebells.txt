@@ -1,3 +1,17 @@
+20240212
+- 10 swings 1.5pd
+- 5 suitcase_squat_right 1.5pd
+- 5 suitcase_squat_left 1.5pd
+- 5 suitcase_squat_right 1.5pd
+- 5 suitcase_squat_left 1.5pd
+- 20 swings 1.5pd
+- 5 single_arm_snatch_right 1.5pd
+- 5 single_arm_snatch_left 1.5pd
+- 5 single_arm_snatch_right 1.5pd
+- 5 single_arm_snatch_left 1.5pd
+- 10 goblet_squat_with_press 1.5pd
+- 10 pushups
+
 20240130
 - 20 swings 1.5pd
 - 10 air_squat
