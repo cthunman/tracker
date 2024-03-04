@@ -26,6 +26,11 @@
 - 10 single_arm_windmill_right 1.5pd
 - 10 single_arm_windmill_left 1.5pd
 
+20240301
+- 10 rdl 1.5pd
+- 10 rdl 1.5pd
+- 10 rdl 1.5pd
+
 20240228
 - 10 rdl 1.5pd
 - 10 rdl 1.5pd
