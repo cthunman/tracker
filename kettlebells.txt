@@ -1,3 +1,37 @@
+20240307
+- 10 rdl 1.5pd
+- 10 rdl 1.5pd
+- 20 swings 1.5pd
+- 20 swings 1.5pd
+- 20 swings 1.5pd
+- 20 swings 1.5pd
+- 5 single_arm_snatch_right 1.5pd
+- 5 single_arm_snatch_left 1.5pd
+- 10 single_arm_snatch_right 1.5pd
+- 10 single_arm_snatch_left 1.5pd
+- 20 swings 2pd
+- 20 swings 2pd
+- 5 single_arm_snatch_right 2pd
+- 5 single_arm_snatch_left 2pd
+- 5 single_arm_snatch_right 2pd
+- 5 single_arm_snatch_left 2pd
+- 5 single_arm_snatch_right 2pd
+- 5 single_arm_snatch_left 2pd
+- 5 single_arm_snatch_right 2pd
+- 5 single_arm_snatch_left 2pd
+- 10 suitcase_squat_left 2pd
+- 10 suitcase_squat_right 2pd
+- 10 single_arm_windmill_right 1.5pd
+- 10 single_arm_windmill_left 1.5pd
+- 10 single_arm_windmill_right 1.5pd
+- 10 single_arm_windmill_left 1.5pd
+- 10 single_arm_windmill_right 2pd
+- 10 single_arm_windmill_left 2pd
+- 10 upright_shoulder_press_right 1pd
+- 10 upright_shoulder_press_left 1pd
+- 10 upright_shoulder_press_right 1pd
+- 10 upright_shoulder_press_left 1pd
+
 20240305
 - 10 rdl 1.5pd
 - 10 rdl 1.5pd
@@ -19,16 +53,16 @@
 - 5 single_arm_snatch_left 2pd
 - 5 single_arm_snatch_right 2pd
 - 5 single_arm_snatch_left 2pd
-- 10 upright_shoulder_press_right 1.5pd
-- 10 upright_shoulder_press_left 1.5pd
+- 10 upright_shoulder_press_right 1pd
+- 10 upright_shoulder_press_left 1pd
 - 5 single_arm_snatch_right 2pd
 - 5 single_arm_snatch_left 2pd
-- 10 upright_shoulder_press_right 1.5pd
-- 10 upright_shoulder_press_left 1.5pd
+- 10 upright_shoulder_press_right 1pd
+- 10 upright_shoulder_press_left 1pd
 - 5 single_arm_snatch_right 2pd
 - 5 single_arm_snatch_left 2pd
-- 10 upright_shoulder_press_right 1.5pd
-- 10 upright_shoulder_press_left 1.5pd
+- 10 upright_shoulder_press_right 1pd
+- 10 upright_shoulder_press_left 1pd
 - 10 single_arm_windmill_right 1.5pd
 - 10 single_arm_windmill_left 1.5pd
 - 10 single_arm_windmill_right 1.5pd
@@ -92,10 +126,10 @@
 - 10 pushups
 - 10 pushups
 - 10 pushups
-- 10 upright_shoulder_press_right 1.5pd
-- 10 upright_shoulder_press_left 1.5pd
-- 10 upright_shoulder_press_right 1.5pd
-- 10 upright_shoulder_press_left 1.5pd
+- 10 upright_shoulder_press_right 1pd
+- 10 upright_shoulder_press_left 1pd
+- 10 upright_shoulder_press_right 1pd
+- 10 upright_shoulder_press_left 1pd
 - 10 pushups
 
 20240227
@@ -153,8 +187,8 @@
 - 20 swings 2pd
 - 20 swings 2pd
 - 20 swings 2pd
-- 10 upright_shoulder_press_right 1.5pd
-- 10 upright_shoulder_press_left 1.5pd
+- 10 upright_shoulder_press_right 1pd
+- 10 upright_shoulder_press_left 1pd
 - 5 single_arm_windmill_right 1.5pd
 - 5 single_arm_windmill_left 1.5pd
 - 10 single_arm_windmill_right 1.5pd
@@ -243,10 +277,10 @@
 - 10 single_arm_windmill_left 1.5pd
 - 10 single_arm_windmill_right 1.5pd
 - 10 single_arm_windmill_left 1.5pd
-- 10 upright_shoulder_press_right 1.5pd
-- 10 upright_shoulder_press_left 1.5pd
-- 10 upright_shoulder_press_right 1.5pd
-- 10 upright_shoulder_press_left 1.5pd
+- 10 upright_shoulder_press_right 1pd
+- 10 upright_shoulder_press_left 1pd
+- 10 upright_shoulder_press_right 1pd
+- 10 upright_shoulder_press_left 1pd
 
 20240108
 - 20 swings 1.5pd
@@ -314,8 +348,8 @@
 - 5 single_arm_snatch_left 1.5pd
 - 10 single_arm_snatch_right 1.5pd
 - 10 single_arm_snatch_left 1.5pd
-- 10 upright_shoulder_press_right 1.5pd
-- 10 upright_shoulder_press_left 1.5pd
+- 10 upright_shoulder_press_right 1pd
+- 10 upright_shoulder_press_left 1pd
 - 10 goblet_squat 1.5pd
 - 10 single_arm_windmill_right 1.5pd
 - 10 single_arm_windmill_left 1.5pd
