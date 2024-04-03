@@ -22,6 +22,10 @@
 - 10 single_arm_windmill_left 1.5pd
 - 10 single_arm_windmill_right 1.5pd
 - 10 single_arm_windmill_left 1.5pd
+- 10 upright_shoulder_press_right 1pd
+- 10 upright_shoulder_press_left 1pd
+- 10 upright_shoulder_press_right 1pd
+- 10 upright_shoulder_press_left 1pd
 
 20240330
 - 10 rdl 1.5pd
